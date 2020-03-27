@@ -6,5 +6,5 @@ To install all files in the config file simply pass it to choco install as an ar
 
 `choco install packages.config --yes`
 
-As an additional note, we include the `--yes` flag here. This ensures we can skip all the "Are you sure you want to install?" prompts from Chocolatey.
+We include the `--yes` flag above to allow Chocolatey to skip all the "Are you sure you want to install?" prompts when installing our packages.
 
